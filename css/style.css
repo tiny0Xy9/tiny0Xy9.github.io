@@ -472,7 +472,7 @@ ol {
   letter-spacing: 0;
 }
 
-#unity_inline-popup{
+#unity_inline-popup,#myam_inline-popup,#touchthenumber_inline-popup,#ios_chat_inline-popup{
   background-color: #fff;
   width: 60%;
   margin-left: 20%;
@@ -484,6 +484,10 @@ ol {
 .iframe_youtube_center{
   margin-left: 20%;
   width: 60%;
+}
+
+.public_line{
+  color: red;
 }
 
 .mfp-close{
